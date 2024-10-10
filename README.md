@@ -1,1 +1,1 @@
-# personal_project-
+# Stock Market predictor
